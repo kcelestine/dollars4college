@@ -1,0 +1,119 @@
+<!DOCTYPE HTML>
+<!--
+	Alpha by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Dollars 4 College</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.dropotron.min.js"></script>
+		<script src="js/jquery.scrollgress.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-layers.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-wide.css" />
+		</noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+	</head>
+	<body class="landing">
+
+		<!-- Header -->
+			<header id="header" class="alt">
+				<h1><a href="index.html">DOLLARS 4 COLLEGE</h1>
+				<nav id="nav">
+					<ul>
+						<li><a href="/">Home</a></li>
+						<li><a href="/scholarships">Scholarships</a></li>
+						<li>Khadijah Celestine</li>
+					</ul>
+				</nav>
+			</header>
+
+		<!-- Banner -->
+			<section id="banner">
+			  <h2>Scholarships</h2>
+			</section>
+
+		<!-- Main -->
+						<section id="main" class="container">
+		
+				<section class="box special">
+					<header class="major">
+						<h2>Your money. Your rules. Major Impact. </h2>
+						<br /> <br /> <br /> 
+						<table>
+
+						<tr>
+							  <td> <a href="/s/women-in-tech"> Women In Tech Scholarship </a>
+							  </td>
+							  <td> <a href="/s/women-in-tech/apply">Apply Now</a>
+							  </td>
+							  <td> Tuesday September 30, 2014
+							  </td>
+						</tr>
+						<tr>
+							  <td> Yodle CS Scholarship 
+							  </td>
+							  <td>Apply Now
+							  </td>
+							  <td> Tuesday September 30, 2014
+							  </td>
+						</tr>
+						<tr>
+							  <td> Tigerspike Scholarship
+							  </td>
+							  <td> Apply Now
+							  </td>
+							  <td> Monday December 1, 2014
+							  </td>
+						</tr>
+
+						<tr>
+							  <td> Do you STEM Scholarship
+							  </td>
+							  <td> Apply Now
+							  </td>
+							  <td> Tuesday December 9, 2014
+							  </td>
+						</tr>
+						<tr>
+							  <td> L+R Scholarship
+							  </td>
+							  <td> Apply Now
+							  </td>
+							  <td> Friday December 12, 2014
+							  </td>
+						</tr>
+						</table>
+					</header>
+				</section>						
+			</section>
+	
+			
+		<!-- Footer -->
+			<footer id="footer">
+				<!-- <ul class="icons">
+					<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+					<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+					<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+					<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+					<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+					<li><a href="#" class="icon fa-google-plus"><span class="label">Google+</span></a></li>
+				</ul> -->
+				<ul class="copyright">
+				  <li>&copy; 2014. All rights reserved.</li>
+				  <li>Developed by: <a href="http://khadijahcelestine.com">Khadijah Celestine</a></li>
+				</ul>
+			</footer>
+
+	</body>
+</html>
